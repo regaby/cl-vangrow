@@ -136,6 +136,7 @@
         'https://github.com/OCA/reporting-engine.git',
         'https://github.com/OCA/stock-logistics-warehouse.git',
         'https://github.com/odoo/design-themes.git',
+        'https://github.com/DaniRoBAzan/drb_custom_vangrow.git',
     ],
 
     # list of images to use in the form 'name image-url'
